@@ -1,9 +1,9 @@
 [submodule "webui"]
 	path = webui
-	url = https://github.com/Azure/azure-iot-pcs-remote-monitoring-webui.git
+	url = https://github.com/nrayarao/pcs-remote-monitoring-webui.git
 [submodule "cli"]
 	path = cli
-	url = https://github.com/Azure/pcs-cli.git
+	url = https://github.com/nrayarao/pcs-cli.git
 [submodule "services"]
 	path = services
-	url = https://github.com/Azure/remote-monitoring-services-dotnet
+	url = https://github.com/nrayarao/remote-monitoring-services-dotnet.git
