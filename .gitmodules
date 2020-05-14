@@ -1,9 +1,12 @@
 [submodule "webui"]
 	path = webui
 	url = https://github.com/nrayarao/pcs-remote-monitoring-webui.git
+	branch = master
 [submodule "cli"]
 	path = cli
 	url = https://github.com/nrayarao/pcs-cli.git
+	branch = master
 [submodule "services"]
 	path = services
 	url = https://github.com/nrayarao/remote-monitoring-services-dotnet.git
+	branch = master
